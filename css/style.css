@@ -1,0 +1,31 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Editing header */
+
+header{
+    text-align: center;
+    padding: 50px;
+}
+
+.header__title{
+    font-weight: 200;
+}
+
+.header__subtitle{
+    font-weight: 600;
+}
+
+.header__description{
+    margin-top: 40px;
+    font-weight: 200;
+}
+
+header h1{
+    line-height: 70%;
+}
+
+header p{
+    line-height: 50%;
+}
