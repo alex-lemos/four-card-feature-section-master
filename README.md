@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/four-card-feature-section-h6GG2Rr80)
-- Live Site URL: [Add live site URL here](https://alex-lemos.github.io/four-card-feature-section-master/)
+- Solution URL: [frontendmentor.io/solutions](https://www.frontendmentor.io/solutions/four-card-feature-section-h6GG2Rr80)
+- Live Site URL: [alex-lemos.github.io/four-card-feature-section-master](https://alex-lemos.github.io/four-card-feature-section-master/)
 
 ## My process
 
