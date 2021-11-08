@@ -49,5 +49,4 @@ I learned to use fexxbox properties in a more efficient way and to better organi
 
 ## Author
 
-- GitHub - [Alex Lemos](https://github.com/alex-lemos)
 - Frontend Mentor - [@alex-lemos](https://www.frontendmentor.io/profile/alex-lemos)
