@@ -34,7 +34,7 @@ Users should be able to:
 
 I have to organize an entire HTML structure, with main, header and section.
 
-To position the cards well, I left two outside a div and two inside a div, where I used flexbox to put the ones inside a div, one on top of the other, which was undoubtedly my biggest challenge. and the spacing made with margin.
+To position the cards well, I left two outside a div and two inside a div, where I used flexbox to put the ones inside a div, one on top of the other, which was undoubtedly my biggest challenge and the spacing made with margin.
 
 ### Built with
 
